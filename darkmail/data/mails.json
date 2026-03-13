@@ -1,0 +1,68 @@
+[
+    {
+        "to": "demo@temp.local",
+        "from": "example@test.com",
+        "subject": "Welcome",
+        "body": "This is a test email"
+    },
+    {
+        "from": "try@temp.local",
+        "to": "try@temp.local",
+        "subject": "321",
+        "body": "fsadfasdfasd"
+    },
+    {
+        "from": "gg@temp.local",
+        "to": "try@temp.local",
+        "subject": "321",
+        "body": "raasfasdfdasfdsa"
+    },
+    {
+        "from": "try@temp.local",
+        "to": "try@temp.local",
+        "subject": "321",
+        "body": "Read C# language reference material, and the C# language specifications. The C# reference provides an informative reference for the C# language. The C# language specification is the normative reference for the C# language. It's the official source for C# language syntax and semantics. Feature specifications document features not yet incorporated in the standard."
+    },
+    {
+        "from": "gg@temp.local",
+        "to": "okanekici49@gmail.com",
+        "subject": "C#",
+        "body": "Read C# language reference material, and the C# language specifications. The C# reference provides an informative reference for the C# language. The C# language specification is the normative reference for the C# language. It's the official source for C# language syntax and semantics. Feature specifications document features not yet incorporated in the standard."
+    },
+    {
+        "from": "dede@temp.local",
+        "to": "okanekici49@gmail.com",
+        "subject": "Email Prompt",
+        "body": "Read C# language reference material, and the C# language specifications. The C# reference provides an informative reference for the C# language. The C# language specification is the normative reference for the C# language. It's the official source for C# language syntax and semantics. Feature specifications document features not yet incorporated in the standard."
+    },
+    {
+        "from": "dede@temp.local",
+        "to": "dede@temp.local",
+        "subject": "C#",
+        "body": "Read C# language reference material, and the C# language specifications. The C# reference provides an informative reference for the C# language. The C# language specification is the normative reference for the C# language. It's the official source for C# language syntax and semantics. Feature specifications document features not yet incorporated in the standard."
+    },
+    {
+        "from": "dede@temp.local",
+        "to": "dede@temp.local",
+        "subject": "ddsfhasdhfjkladsjhfkasdl",
+        "body": "rfdaqu\u0131repwc\u0131vtfudljkasghdkjfhdslakjfhkdsjfhslakhfdljkafhdaskjhfasd"
+    },
+    {
+        "from": "dede@temp.local",
+        "to": "gg@temp.local",
+        "subject": "dsadas",
+        "body": "dsadas"
+    },
+    {
+        "from": "dede@temp.local",
+        "to": "gg@temp.local",
+        "subject": "dasdsa",
+        "body": "32131231231231"
+    },
+    {
+        "from": "darkmail@temp.local",
+        "to": "darkmail@temp.local",
+        "subject": "Panel link",
+        "body": "\u00d6mer darkmail@temp.local'e g\u00f6ndermeyi unutma"
+    }
+]
